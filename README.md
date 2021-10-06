@@ -8,3 +8,4 @@ A new Flutter project.
 
 ## ANASAYFA
 
+![anasayfa](https://user-images.githubusercontent.com/77542403/136195500-ef4b6f29-22a7-425e-9e4a-f23ac88dae04.png)
