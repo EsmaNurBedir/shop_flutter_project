@@ -1,6 +1,7 @@
 # shop_flutter_project
 
-A new Flutter project.
+Firebase alternatifi olan Supabase ile Shop bir uygulama geliştirdim
+
 
 ## Authentication
 
