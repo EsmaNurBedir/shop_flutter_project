@@ -8,4 +8,4 @@ A new Flutter project.
 
 ## ANASAYFA
 
-![anasayfa](https://user-images.githubusercontent.com/77542403/136195500-ef4b6f29-22a7-425e-9e4a-f23ac88dae04.png)>![ANASAYFA2](https://user-images.githubusercontent.com/77542403/136195780-5ff95274-3186-4dbf-988c-53f0af9054bf.png)
+![anasayfa](https://user-images.githubusercontent.com/77542403/136195500-ef4b6f29-22a7-425e-9e4a-f23ac88dae04.png)>![ANASAYFA2](https://user-images.githubusercontent.com/77542403/136195780-5ff95274-3186-4dbf-988c-53f0af9054bf.png)>![R](https://user-images.githubusercontent.com/77542403/136196296-c691f91a-7115-4b54-9980-5fb54e48014e.png)
