@@ -13,3 +13,7 @@ A new Flutter project.
 ## EMPLOY
 
 ![EMPLOYE](https://user-images.githubusercontent.com/77542403/136196706-ef87d1a1-af61-428d-ac5f-1bec1f422af8.png)
+
+## PAYMENT
+
+![Payment](https://user-images.githubusercontent.com/77542403/136197294-3b9aeb77-86b7-45a9-ad4a-2510037b0cf5.png)
